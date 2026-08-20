@@ -1,0 +1,373 @@
+﻿[
+    {
+        "file":  "achillesa5unionpremiumgeo.fbx",
+        "name":  "Achilles A5 Union Premium",
+        "series":  "Burst",
+        "class":  "Balance",
+        "bytes":  914656
+    },
+    {
+        "file":  "achillesa6infinitegeo.fbx",
+        "name":  "Achilles A6 Infinite",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  918224
+    },
+    {
+        "file":  "achillesa6origingeo.fbx",
+        "name":  "Achilles A6 Origin",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  805040
+    },
+    {
+        "file":  "achilliescho-zgeo.fbx",
+        "name":  "Achilles Cho-Z",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  804960
+    },
+    {
+        "file":  "achillesinfinitegeo.fbx",
+        "name":  "Achilles Infinite",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  843264
+    },
+    {
+        "file":  "achillesunionprogeo.fbx",
+        "name":  "Achilles Union Pro",
+        "series":  "Burst",
+        "class":  "Balance",
+        "bytes":  1264208
+    },
+    {
+        "file":  "apocalypsea5primegeov2.fbx",
+        "name":  "Apocalypsea5primegeov2",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  1025024
+    },
+    {
+        "file":  "fx_ashindra_attack_cin.fbx",
+        "name":  "Ashindra Attack",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  1027984
+    },
+    {
+        "file":  "balkeshb5erasegeo.fbx",
+        "name":  "Balkesh B5 Erase",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  891824
+    },
+    {
+        "file":  "balkeshsoulgeo.fbx",
+        "name":  "Balkesh Soul",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  1043824
+    },
+    {
+        "file":  "bushinashindraa5geov2.fbx",
+        "name":  "Bushinashindraa5geov2",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  868224
+    },
+    {
+        "file":  "cyclopsc5poisongeo.fbx",
+        "name":  "Cyclops C5 Poison",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  987872
+    },
+    {
+        "file":  "deathscyther2geo.fbx",
+        "name":  "Deathscyther 2",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  1103344
+    },
+    {
+        "file":  "epiceviperogeo.fbx",
+        "name":  "Epic Evipero",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  803328
+    },
+    {
+        "file":  "eviperogeo.fbx",
+        "name":  "Evipero",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  922720
+    },
+    {
+        "file":  "fafnirf5wizardgeo.fbx",
+        "name":  "Fafnir F5 Wizard",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  781072
+    },
+    {
+        "file":  "fafnirf6kolossalgeo.fbx",
+        "name":  "Fafnir F6 Kolossal",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  887600
+    },
+    {
+        "file":  "fafnirf6miragespeedstormgeo.fbx",
+        "name":  "Fafnir F6 Mirage Speedstorm",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  1039392
+    },
+    {
+        "file":  "fafnirmiragegeo.fbx",
+        "name":  "Fafnir Mirage",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  797488
+    },
+    {
+        "file":  "fafnirwizardgeo.fbx",
+        "name":  "Fafnir Wizard",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  1022096
+    },
+    {
+        "file":  "fx_shield_new.fbx",
+        "name":  "FX Shield",
+        "series":  "Burst",
+        "class":  "Defense",
+        "bytes":  2713408
+    },
+    {
+        "file":  "genesisg5royalpremiumgeo.fbx",
+        "name":  "Genesis G5 Royal",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  779088
+    },
+    {
+        "file":  "heliosh6kolossalv2geo.fbx",
+        "name":  "Helios H6 Kolossal",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  947856
+    },
+    {
+        "file":  "heliosh6miragegeo.fbx",
+        "name":  "Helios H6 Mirage",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  1118368
+    },
+    {
+        "file":  "hyperionh6demisegeo.fbx",
+        "name":  "Hyperion H6 Demise",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  861072
+    },
+    {
+        "file":  "hyperionh6speargeo.fbx",
+        "name":  "Hyperion H6 Spear",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  870176
+    },
+    {
+        "file":  "hyperionh6superv2geo.fbx",
+        "name":  "Hyperion H6 Super",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  847344
+    },
+    {
+        "file":  "ifritorgeo.fbx",
+        "name":  "Ifritor",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  787776
+    },
+    {
+        "file":  "kerbeusk5shieldgeo.fbx",
+        "name":  "Kerbeus K5 Shield",
+        "series":  "Burst",
+        "class":  "Defense",
+        "bytes":  934256
+    },
+    {
+        "file":  "krakenk5shieldgeo.fbx",
+        "name":  "Kraken K5 Shield",
+        "series":  "Burst",
+        "class":  "Defense",
+        "bytes":  924944
+    },
+    {
+        "file":  "fx_leviathan_attack.fbx",
+        "name":  "Leviathan Attack",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  1029120
+    },
+    {
+        "file":  "leviathanl5tactgeo.fbx",
+        "name":  "Leviathan L5 Tact",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  916000
+    },
+    {
+        "file":  "minoborosgeo.fbx",
+        "name":  "Minoboros",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  893696
+    },
+    {
+        "file":  "pegasusp5harmonygeo_v2.fbx",
+        "name":  "Pegasus P5 Harmony",
+        "series":  "Burst",
+        "class":  "Balance",
+        "bytes":  1393344
+    },
+    {
+        "file":  "perfectphoenixgeo.fbx",
+        "name":  "Perfect Phoenix",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  954512
+    },
+    {
+        "file":  "satombs6bravegeo.fbx",
+        "name":  "Satomb S6 Brave",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  813392
+    },
+    {
+        "file":  "fx_sphinx_fireslashes.fbx",
+        "name":  "Sphinx Fire Slashes",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  771936
+    },
+    {
+        "file":  "spryzenlordgeo.fbx",
+        "name":  "Spryzen Lord",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  984512
+    },
+    {
+        "file":  "spryzenrequiemv2geo.fbx",
+        "name":  "Spryzen Requiem",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  1445632
+    },
+    {
+        "file":  "spryzens5geo.fbx",
+        "name":  "Spryzen S5",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  826752
+    },
+    {
+        "file":  "spryzens6worldgeo.fbx",
+        "name":  "Spryzen S6 World",
+        "series":  "Burst",
+        "class":  "Stamina",
+        "bytes":  776352
+    },
+    {
+        "file":  "valtryekbravegeo.fbx",
+        "name":  "Valtryek Brave",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  768256
+    },
+    {
+        "file":  "valtryekcho-zredgeo.fbx",
+        "name":  "Valtryek Cho-Z Red",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  1405024
+    },
+    {
+        "file":  "valtryekswordgeo.fbx",
+        "name":  "Valtryek Sword",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  935296
+    },
+    {
+        "file":  "valtryekv5uniongeo.fbx",
+        "name":  "Valtryek V5 Union",
+        "series":  "Burst",
+        "class":  "Balance",
+        "bytes":  870368
+    },
+    {
+        "file":  "valtryekv6speargeo.fbx",
+        "name":  "Valtryek V6 Spear",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  793120
+    },
+    {
+        "file":  "wyvern2geo_v2.fbx",
+        "name":  "Wyvern 2",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  769632
+    },
+    {
+        "file":  "wyvernw6geo.fbx",
+        "name":  "Wyvern W6",
+        "series":  "Burst",
+        "class":  "Attack",
+        "bytes":  771408
+    },
+    {
+        "file":  "arenacolossus.fbx",
+        "name":  "Arena Colossus",
+        "series":  "X",
+        "class":  "Arena",
+        "bytes":  517616
+    },
+    {
+        "file":  "arenasquare.fbx",
+        "name":  "Arena Square",
+        "series":  "X",
+        "class":  "Arena",
+        "bytes":  748128
+    },
+    {
+        "file":  "arenastrike.fbx",
+        "name":  "Arena Strike",
+        "series":  "X",
+        "class":  "Arena",
+        "bytes":  457184
+    },
+    {
+        "file":  "defaultarena.fbx",
+        "name":  "Default Arena",
+        "series":  "X",
+        "class":  "Arena",
+        "bytes":  294832
+    },
+    {
+        "file":  "arenaswitchstriketower.fbx",
+        "name":  "Switch Strike Tower",
+        "series":  "X",
+        "class":  "Arena",
+        "bytes":  581760
+    }
+]
