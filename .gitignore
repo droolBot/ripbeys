@@ -13,6 +13,8 @@ dist-ssr
 *.local
 .tmp-morph-frames
 tmp
+.railway-deploy
+tmp-unused-models.txt
 
 # Editor directories and files
 .vscode/*
