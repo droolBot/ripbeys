@@ -112,7 +112,7 @@ export function RipCursor() {
           key={index}
           className="rb-cursor-spark"
           ref={(node) => {
-            if (node) sparks.current[index] = node
+            if (node) sparks.current[index] = node as HTMLDivElement
           }}
         />
       ))}
